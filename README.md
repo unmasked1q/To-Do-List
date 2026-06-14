@@ -20,14 +20,14 @@ A simple and responsive To-Do List web application built using HTML, CSS, and Ja
 - Local Storage API
 
  📂 Project Structure
-
+'''
 To-Do-List-App/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── images/
-
+'''
 
 
 
